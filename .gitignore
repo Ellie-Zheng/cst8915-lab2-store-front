@@ -21,3 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Ignore local environment files for Lab 2
+.env
+.env.*
+!.env.example
